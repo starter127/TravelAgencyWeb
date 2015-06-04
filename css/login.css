@@ -1,0 +1,24 @@
+.loginBox{
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 45px;
+    font-weight: lighter;
+}
+
+.login-container{
+    -webkit-border-radius: 10px;
+    
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 25px auto;
+	padding: 15px;
+    text-shadow: 0 1px 0 #fff;
+    width: 400px;
+}
+
+.login-container form,
+.login-container label,
+.login-container .form-group{
+    background: #f9f9f9;
+}

@@ -1,0 +1,34 @@
+body {
+    background: gray;
+    padding-top: 70px;
+}
+
+.navbar{
+    background: #dd6a1c;
+    border-color: #dd6a1c;
+}
+
+.container{
+    background: lightgray;
+    border-radius: 10px;
+}
+
+.disable{
+    background: #e93743;
+    border-color: #e93743;
+}
+
+.container>.row{
+    margin: 10px 0;
+}
+.container>h2{
+    color: #164307;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a{
+    color: #164307;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-nav>li>a:hover{
+    color: #4b773c;
+}
